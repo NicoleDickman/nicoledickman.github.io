@@ -1,4 +1,3 @@
-# nicoledickman.github.io
-Nicole Dickman site pages
+# Nicole Dickman
 
-v.2
+## Nicole Dickman website
